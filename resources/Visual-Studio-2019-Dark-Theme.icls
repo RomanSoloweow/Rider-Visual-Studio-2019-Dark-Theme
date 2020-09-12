@@ -782,6 +782,21 @@
         <option name="FOREGROUND" value="b8d7a3" />
       </value>
     </option>
+    <option name="ReSharper.CSHARP_ACCESSOR_IDENTIFIER">
+        <value>
+            <option name="FOREGROUND" value="569cd6" />
+        </value>
+    </option>
+    <option name="ReSharper.CSHARP_ESCAPE_CHARACTER_1">
+        <value>
+            <option name="FOREGROUND" value="d7ba7d" />
+        </value>
+    </option>
+    <option name="ReSharper.CSHARP_ESCAPE_CHARACTER_2">
+        <value>
+            <option name="FOREGROUND" value="d7ba7d" />
+        </value>
+    </option>
     <option name="JSON.PROPERTY_KEY">
           <value>
             <option name="FOREGROUND" value="d7ba7d" />
