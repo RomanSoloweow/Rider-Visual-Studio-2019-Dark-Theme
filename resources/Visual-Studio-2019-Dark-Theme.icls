@@ -1,11 +1,12 @@
 <scheme name="Visual Studio Code Dark Plus" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-08-27T16:21:27</property>
+    <property name="created">2021-02-05T15:59:39</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-08-27T16:21:34</property>
+    <property name="ideVersion">2020.3.2.0.0</property>
+    <property name="modified">2021-02-05T15:59:49</property>
     <property name="originalScheme">_@user_Visual Studio Code Dark Plus</property>
   </metaInfo>
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_COLOR" value="adaeac" />
     <option name="CARET_ROW_COLOR" value="262626" />
@@ -796,6 +797,26 @@
         <value>
             <option name="FOREGROUND" value="d7ba7d" />
         </value>
+    </option>
+    <option name="ReSharper.CSHARP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_CLASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+      </value>
     </option>
     <option name="JSON.PROPERTY_KEY">
           <value>
