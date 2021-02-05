@@ -780,6 +780,11 @@
                 <option name="FOREGROUND" value="4ec9b0" />
             </value>
         </option>
+        <option name="ReSharper.CSHARP_ENUM_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="b8d7a3" />
+            </value>
+        </option>
         <option name="ReSharper.CSHARP_STRUCT_IDENTIFIER">
             <value>
                 <option name="FOREGROUND" value="86c691" />

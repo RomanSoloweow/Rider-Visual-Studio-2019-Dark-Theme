@@ -1,7 +1,7 @@
 <idea-plugin>
-  <id>com.gmike.visual-studio-2019-dark</id>
+  <id>com.gmike.visual-studio-2019-dark</id>v
   <name>Visual Studio 2019 Dark Theme</name>
-  <version>1.3.4</version>
+  <version>1.4</version>
   <vendor email="roman.soloweow@gmail.com" url="https://github.com/RomanSoloweow">GMIKE</vendor>
 
   <description><![CDATA[
@@ -10,9 +10,12 @@
     ]]></description>
 
   <change-notes><![CDATA[
-    <b>1.3.4</b>
+    <b>1.4</b>
     <ul>
-       <li>Color for IDE background,  .Set font of Editor</li>
+       <li>Color for font and background of IDE</li>
+       <li>Color key words, namespaces and other</li>
+       <li>Fix for Enum color</li>
+       <li>Set font of Editor</li>
     </ul>
     <b>1.3.3</b>
     <ul>

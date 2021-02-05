@@ -5,10 +5,7 @@
   "editorScheme": "/Visual_Studio_2019_Dark.xml",
   "ui": {
     "*": {
-      "//*": "#FF00FF",
-      "//background": "#FF0000",
-      "//foreground": "#00FF00",
-      "//borderColor": "#00FFFF",
+      "background": "#323232",
       "selectionBackground": "$selectionBackground",
       "selectionForeground": "$selectionForeground",
       "selectionInactiveBackground": "$selectionBackgroundInactive",
@@ -495,7 +492,7 @@
       "separatorColor": "$separator"
     },
     "TitlePane": {
-      "background": "$titleBackground",
+      "background": "#2d2d30",
       "inactiveBackground": "$panelBackground",
       "infoForeground": "$mutedForeground",
       "inactiveInfoForeground": "$disabledForeground"
@@ -542,7 +539,7 @@
     "$popupBorder": "#585858",
     "$toolwindowBackground": "#2d2d30",
     "$panelBackground": "#2d2d30",
-    "$regularForeground": "#c0c0c6",
+    "$regularForeground": "#f1f1f1",
     "$mutedForeground": "#9999A8",
     "$disabledForeground": "#6A6A70",
     "$textInputBackground": "#303030",
