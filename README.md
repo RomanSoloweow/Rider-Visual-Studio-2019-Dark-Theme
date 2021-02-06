@@ -13,6 +13,12 @@
 
 ![screenshot](https://github.com/RomanSoloweow/Rider-Visual-Studio-2019-Dark-Theme/blob/master/Screenshot.png)
 
+## JetBrains Rider
+
+Is no option to set the colour for if/return statement
+There is an issue at https://youtrack.jetbrains.com/issue/RIDER-35333
+Please feel free to upvote
+
 ## License📑
 
 Copyright (c) SimpleStateMachine
