@@ -16,7 +16,9 @@
 ## JetBrains Rider
 
 Is no option to set the colour for if/return statement
+
 There is an issue at https://youtrack.jetbrains.com/issue/RIDER-35333
+
 Please feel free to upvote
 
 ## License📑
