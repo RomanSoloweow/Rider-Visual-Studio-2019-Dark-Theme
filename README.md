@@ -11,7 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/29205560/121219219-2532e080-c88c-11eb-9d25-c43ffccfd144.png)
 
-3. Select theme in Settings → Editor → Color Scheme
+3. Select theme in Settings → Editor → Color Scheme → Scheme
 
 ![image](https://user-images.githubusercontent.com/29205560/121219318-3e3b9180-c88c-11eb-9e0c-f3322d7b5413.png)
 
