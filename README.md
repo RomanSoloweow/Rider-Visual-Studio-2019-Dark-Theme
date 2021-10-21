@@ -27,6 +27,14 @@ There is an issue at https://youtrack.jetbrains.com/issue/RIDER-35333
 
 Please feel free to upvote
 
+## Contributing
+
+To build the theme, follow these steps:
+
+1. Open the project using IntelliJ IDEA.
+2. Choose main menu item **Build → Prepare Plugin Module 'Visual-Studio-2019-Dark-Theme' For Deployment**.
+3. This will generate a file `Visual-Studio-2019-Dark-Theme.jar` in the repository root directory. This file may be uploaded to the JetBrains Marketplace.
+
 ## License📑
 
 Copyright (c) SimpleStateMachine
