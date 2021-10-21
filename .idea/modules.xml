@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Rider-Visual-Studio-2019-Dark-Theme.iml" filepath="$PROJECT_DIR$/.idea/Rider-Visual-Studio-2019-Dark-Theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visual-Studio-2019-Dark-Theme.iml" filepath="$PROJECT_DIR$/Visual-Studio-2019-Dark-Theme.iml" />
     </modules>
   </component>
 </project>
