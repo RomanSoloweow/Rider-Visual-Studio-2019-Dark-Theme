@@ -2,7 +2,7 @@
   "name": "Visual Studio 2019 Dark",
   "dark": true,
   "author": "GMIKE",
-  "editorScheme": "/Visual_Studio_2019_Dark.xml",
+  "editorScheme": "/Visual_Studio_2019_Dark_Theme.xml",
   "ui": {
     "*": {
       "background": "#323232",
