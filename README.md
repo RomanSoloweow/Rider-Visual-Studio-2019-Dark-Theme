@@ -5,7 +5,7 @@
  
 ## Getting Started
 
-1.Install "Visual Studio Code Dark Plus Theme" plugin via Settings → Plugins → Marketplace
+1.Install "Visual Studio 2019 Dark Theme" plugin via Settings → Plugins → Marketplace
 
 2.Select theme in Settings → Appearance & Behavior → Appearance → Theme
 
