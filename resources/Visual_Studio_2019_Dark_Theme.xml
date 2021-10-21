@@ -825,6 +825,17 @@
                 <option name="FOREGROUND" value="569cd6" />
             </value>
         </option>
+        <option name="ReSharper.ASP_NET_RAZOR_KEYWORD">
+            <value>
+                <option name="FOREGROUND" value="569cd6" />
+            </value>
+        </option>
+        <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
+            <value>
+                <option name="BACKGROUND" value="1e1e1e" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
         <option name="ReSharper.CSHARP_NAMESPACE_IDENTIFIER">
             <value>
                 <option name="FOREGROUND" value="dcdcdc" />
