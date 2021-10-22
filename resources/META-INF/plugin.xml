@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.gmike.visual-studio-2019-dark</id>v
   <name>Visual Studio 2019 Dark Theme</name>
-  <version>1.4</version>
+  <version>1.5.1</version>
   <vendor email="roman.soloweow@gmail.com" url="https://github.com/RomanSoloweow">GMIKE</vendor>
 
   <description><![CDATA[
@@ -10,6 +10,12 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>1.5</b>
+    <ul>
+       <li>Support Razor Syntax</li>
+       <li>Fix bug "Cannot find /Visual_Studio_2019_Dark.xml in PluginClassLoader"</li>
+       <li>Fix bug: color scheme was not set when installing the plugin</li>
+    </ul>
     <b>1.4</b>
     <ul>
        <li>Color for font and background of IDE</li>
