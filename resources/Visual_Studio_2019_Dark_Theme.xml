@@ -800,6 +800,11 @@
                 <option name="FOREGROUND" value="dcdcaa" />
             </value>
         </option>
+        <option name="ReSharper.FSHARP_STRUCT_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="86c691" />
+            </value>
+        </option>
         <option name="ReSharper.FSHARP_TYPE_PARAMETER_IDENTIFIER">
             <value>
                 <option name="FOREGROUND" value="b4cda8" />
