@@ -37,6 +37,4 @@ To build the theme, follow these steps:
 
 ## License📑
 
-Copyright (c) SimpleStateMachine
-
 Licensed under the [MIT](LICENSE) license.
