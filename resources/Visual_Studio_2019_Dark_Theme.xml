@@ -795,6 +795,16 @@
                 <option name="FOREGROUND" value="b8d7a3" />
             </value>
         </option>
+        <option name="ReSharper.FSHARP_FUNCTION_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="dcdcaa" />
+            </value>
+        </option>
+        <option name="ReSharper.FSHARP_TYPE_PARAMETER_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="b4cda8" />
+            </value>
+        </option>
         <option name="JSON.PROPERTY_KEY">
             <value>
                 <option name="FOREGROUND" value="d7ba7d" />

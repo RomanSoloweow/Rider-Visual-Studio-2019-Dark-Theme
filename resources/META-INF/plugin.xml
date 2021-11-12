@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.gmike.visual-studio-2019-dark</id>v
   <name>Visual Studio 2019 Dark Theme</name>
-  <version>1.5.1</version>
+  <version>1.5.2</version>
   <vendor email="roman.soloweow@gmail.com" url="https://github.com/RomanSoloweow">GMIKE</vendor>
 
   <description><![CDATA[
@@ -10,6 +10,10 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>1.5.2</b>
+    <ul>
+       <li>Support F# Syntax</li>
+    </ul>
     <b>1.5</b>
     <ul>
        <li>Support Razor Syntax</li>
