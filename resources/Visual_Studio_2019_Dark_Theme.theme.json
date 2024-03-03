@@ -369,7 +369,6 @@
       "background": "$toolwindowBackground",
       "foreground": "$regularForeground",
       "borderColor": "$border",
-      "paintBorder": "true",
       "infoForeground": "$regularForeground",
       "Actions.background": "$panelBackground",
       "Actions.infoForeground": "$regularForeground"
