@@ -29,6 +29,12 @@ Please feel free to upvote
 
 ## Contributing
 
+### Prepare your IDE
+1. Install JDK
+2. Intall DevKit plugin
+
+### Build plugin
+
 To build the theme, follow these steps:
 
 1. Open the project using IntelliJ IDEA.
